@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "target": "comctl32.dll",
+  "latest": "346528897-42C599C2BA802DF8BB608D554F29B802-1",
+  "builds": [
+    {
+      "key": "346528897-42C599C2BA802DF8BB608D554F29B802-1",
+      "timestamp": "346528897",
+      "pdb_guid": "42C599C2BA802DF8BB608D554F29B802",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/346528897-42C599C2BA802DF8BB608D554F29B802-1/ir.json",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ]
+}

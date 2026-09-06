@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "targets": [
+    {
+      "target": "comctl32",
+      "file": "comctl32.dll",
+      "index": "comctl32/index.json",
+      "latest": "346528897-42C599C2BA802DF8BB608D554F29B802-1",
+      "build_count": 1
+    }
+  ]
+}
